@@ -151,7 +151,7 @@
 /* Lots */
 
 .lots {
-  max-width: 1052px;;
+  max-width: 1052px;
   min-height: 723px;
   margin: 0 24px 120px;
 }
@@ -247,7 +247,7 @@
 /* About */
 
 .about {
-  max-width: 1052px;;
+  max-width: 1052px;
   min-height: 595px;
   margin: 0 24px 180px;
   display: grid;
